@@ -5,7 +5,7 @@ A simple snake game implemented in x86_64 assembly language for Linux, demonstra
 
 ## Precompiled Binary
 
-A compiled version of the game is available for download from the [releases page](https://github.com/NikitaIvanovV/snake-asm/releases/latest).
+A compiled version of the game is available for download from the [releases page](https://github.com/salmanmallah/snake_game_x86).
 
 ## Compilation and Installation
 
