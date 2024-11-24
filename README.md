@@ -20,7 +20,7 @@ To compile and install the game, execute the following commands:
 git clone https://github.com/salmanmallah/snake_game_x86
 ```
 ```bash
-cd snake-asm
+cd snake_game_x86
 ```
 ```bash
 sudo make install
