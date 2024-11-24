@@ -17,7 +17,7 @@ Ensure that [NASM](https://www.nasm.us/) is installed on your system before proc
 To compile and install the game, execute the following commands:
 
 ```bash
-git clone https://github.com/NikitaIvanovV/snake-asm
+git clone https://github.com/salmanmallah/snake_game_x86
 ```
 ```bash
 cd snake-asm
