@@ -18,5 +18,10 @@ To compile and install the game, execute the following commands:
 
 ```bash
 git clone https://github.com/NikitaIvanovV/snake-asm
+```
+```bash
 cd snake-asm
+```
+```bash
 sudo make install
+```
